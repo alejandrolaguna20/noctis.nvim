@@ -1,18 +1,18 @@
 local variants = {
 	main = {
-		placeholder = "#9C8AA5", -- Misty purple
-		color100 = "#FFFFFF", -- Pure white (stars)
-		color200 = "#E2D9F3", -- Light purple mist
-		color300 = "#C6B5E3", -- Soft purple haze
-		color400 = "#9D8EC1", -- Medium purple nebula
-		color500 = "#735BA3", -- Deep space purple
-		color600 = "#4A3B77", -- Dark cosmic purple
-		color700 = "#2A2145", -- Deep space background
-		color800 = "#151025", -- Void purple
-		primary = "#B784ED", -- Bright nebula purple
-		success = "#7ED4B9", -- Cosmic mint
-		warning = "#FFB367", -- Cosmic orange
-		error = "#FF7CA3", -- Stellar pink
+		placeholder = "#7A6F82", -- Dimmed misty purple
+		color100 = "#F0EDF5", -- Soft starlight
+		color200 = "#C2B7D3", -- Muted purple mist
+		color300 = "#9A8EAF", -- Dimmed purple haze
+		color400 = "#776B8E", -- Muted medium purple
+		color500 = "#574D6E", -- Subdued deep purple
+		color600 = "#3A3352", -- Dark cosmic purple
+		color700 = "#221D35", -- Deep space background
+		color800 = "#120F1D", -- Dark void
+		primary = "#8E6BB3", -- Subdued nebula purple
+		success = "#5E9B89", -- Muted cosmic mint
+		warning = "#C08D5D", -- Dimmed cosmic orange
+		error = "#B15D7A", -- Muted stellar pink
 		none = "none",
 	},
 }
